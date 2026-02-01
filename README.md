@@ -3,7 +3,9 @@
 This lab explores SWOT anaylisis using LLM AI
 
 Company Name: Vizient Inc
+
 Address: 290 E John W Carpenter Fwy, Irving, TX 75062
+
 Industry: Healthcare, Information Techology Infastrucure, and Logistics. 
 
 Vizient Inc is signifficantly relvenvant to IT, as it is the largest healtcare improvement company. They manage one of largest healthcare clinical data bases in the US. The area of work I am interested in is their digital Transformation Consulting, where Vizient Inc offers services to help hositples modernize thier IT infastructure and onboard from legacy systems.  
